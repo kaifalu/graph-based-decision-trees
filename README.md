@@ -9,7 +9,7 @@ It remains unclear whether there are any potential changes in ridership predicti
 
 <table style="margin-left: auto; margin-right: auto;">
   <tr style="text-align: center;">
-    <td><img src="Figures/Research Flowchat-new.png"></td>
+    <td><img src="Figures/Research Flowchat_new.png"></td>
   </tr>
  </table>
 
